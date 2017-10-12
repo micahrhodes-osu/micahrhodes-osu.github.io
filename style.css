@@ -65,7 +65,7 @@ p {
 /* Change the color of links on hover */
 .nav a:hover {
     background-color: #ddd;
-    color: black;
+    color: white;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
