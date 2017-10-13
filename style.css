@@ -68,6 +68,13 @@ p {
 
 }
 
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+
+
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
