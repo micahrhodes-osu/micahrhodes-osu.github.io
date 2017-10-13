@@ -16,6 +16,17 @@ p {
 
 }
 
+.content {
+    width: 400px;
+    padding: 20px;
+
+}
+
+
+.content img {
+
+    float: left;
+}
 
 
 .nav{
