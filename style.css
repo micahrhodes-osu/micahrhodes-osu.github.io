@@ -22,12 +22,10 @@ margin: 0 auto;
 }
 
 .user {
-  width: 400px;
+  width: 250px;
   height: 165px;
   margin: 2em 0;
-  border: 3px solid #E18728;
   border-radius: 10px;
-  background-color: white;
 }
 
 img {
@@ -37,11 +35,7 @@ img {
 
 a { display: block; }
 
-.user {
-    width: 400px;
-    padding: 10px;
 
-}
 
 
 .content img {
