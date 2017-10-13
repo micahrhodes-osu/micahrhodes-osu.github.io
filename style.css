@@ -16,24 +16,6 @@ p {
 
 }
 
-section {
-width: 400px;
-margin: 0 auto; 
-}
-
-.user {
-  width: 250px;
-  height: 165px;
-  margin: 2em 0;
-  border-radius: 10px;
-}
-
-img {
-  padding: .5em;
-  float: left;
-}
-
-a { display: block; }
 
 
 
