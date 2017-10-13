@@ -89,7 +89,7 @@ a:hover {
 
 /* Change the color of links on hover */
 .nav a:hover {
-    background-color:black;
+    background-color:gray;
     color: white;
 }
 
