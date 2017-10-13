@@ -46,7 +46,7 @@ p {
 }
 .nav li{
     display:inline;
-    color: #000;
+    color: yellow;
     text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ p {
     
     padding:10px;
     text-decoration:none;
-    color: red;
+    color: white;
 }
 
 
@@ -90,7 +90,7 @@ a:hover {
 /* Change the color of links on hover */
 .nav a:hover {
     background-color: #ddd;
-    color: white;
+    color: green;
 }
 
 
