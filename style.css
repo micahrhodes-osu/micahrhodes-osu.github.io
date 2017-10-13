@@ -57,11 +57,7 @@ p {
     color: white;
 }
 
-/* Change the color of links on hover */
-.nav a:hover {
-    background-color: #ddd;
-    color: white;
-}
+
 
 /* Add a black background color to the top navigation */
 .topnav {
