@@ -16,6 +16,11 @@ p {
 
 }
 
+img.banner {
+  right:30%;
+  left:30%;
+}
+
 .zeynep {
      padding: 20px;
 }
